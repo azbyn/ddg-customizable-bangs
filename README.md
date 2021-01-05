@@ -3,8 +3,11 @@ based on
 https://bangs-but-faster.inclushe.com/
 
 how to build:
+
 run `make genBang`
+
 modify the bang.js as if you want
+
 run `make`
 
 then inside your browser of choice find a way to install extensions from a local file
