@@ -1,0 +1,6 @@
+*.zip
+bang.js
+gen.js
+web-ext-artifacts
+.web-extension-id
+
