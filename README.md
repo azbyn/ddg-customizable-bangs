@@ -6,7 +6,7 @@ how to build:
 
 run `make genBang`
 
-modify the bang.js as if you want
+modify the bang.js as you want
 
 run `make`
 
